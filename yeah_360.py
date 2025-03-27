@@ -1,7 +1,6 @@
 print(
-    "Yeah 360, when you're in the mirror you're just looking at me. When you're in the mirror do you like what you see?"
+    f"\033[38;2;138;206;0mYeah 360, when you're in the mirror you're just looking at me. When you're in the mirror do you like what you see?\033[0m"
 )
+print("\033[38;2;138;206;0m366 froggy girls bumpin' that\033[0m")
 
-print("366 froggy girls bumpin' that")
-
-print("Please leave me alone ffs")
+print("\033[38;2;138;206;0mPlease leave me alone ffs\033[0m")
